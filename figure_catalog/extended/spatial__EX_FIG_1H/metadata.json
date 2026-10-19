@@ -1,0 +1,97 @@
+{
+  "source": "spatial_analysis/codes/EX_FIG_1H.R",
+  "source_sha256": "efafd1e83584e2fd0a3fcb195558f606509668a33337fce7b0f534045689526d",
+  "start": 1,
+  "end": 117,
+  "output_line": 113,
+  "output": "EX_FIG_1H.pdf",
+  "labels": [
+    "Extended_01H"
+  ],
+  "status": "active",
+  "type": "bar",
+  "notes": [],
+  "inputs": [
+    {
+      "literal": "/R_utils/plotutils.R",
+      "resolved_candidate": "spatial_analysis/data/R_utils/plotutils.R",
+      "available": true,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "/R_utils/seuratutils.R",
+      "resolved_candidate": "spatial_analysis/data/R_utils/seuratutils.R",
+      "available": true,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "/R_utils/seuratutilsV3.R",
+      "resolved_candidate": "spatial_analysis/data/R_utils/seuratutilsV3.R",
+      "available": true,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "/R_utils/color.R",
+      "resolved_candidate": "spatial_analysis/data/R_utils/color.R",
+      "available": true,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "spatial_list.Rda",
+      "resolved_candidate": "spatial_analysis/data/spatial_list.Rda",
+      "available": false,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "1174.C_new.csv",
+      "resolved_candidate": "spatial_analysis/1174.C_new.csv",
+      "available": false,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "1174.D_new.csv",
+      "resolved_candidate": "spatial_analysis/1174.D_new.csv",
+      "available": false,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "1179.B_new.csv",
+      "resolved_candidate": "spatial_analysis/1179.B_new.csv",
+      "available": false,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "BW09.A_new.csv",
+      "resolved_candidate": "spatial_analysis/BW09.A_new.csv",
+      "available": false,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "BW11.C_new.csv",
+      "resolved_candidate": "spatial_analysis/BW11.C_new.csv",
+      "available": false,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "BW11.D_new.csv",
+      "resolved_candidate": "spatial_analysis/BW11.D_new.csv",
+      "available": false,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "BW14.A_new.csv",
+      "resolved_candidate": "spatial_analysis/BW14.A_new.csv",
+      "available": false,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "BW23.B_new.csv",
+      "resolved_candidate": "spatial_analysis/BW23.B_new.csv",
+      "available": false,
+      "scope": "whole_source_script"
+    }
+  ],
+  "selector": null,
+  "folder": "extended/spatial__EX_FIG_1H",
+  "snippet_sha256": "efafd1e83584e2fd0a3fcb195558f606509668a33337fce7b0f534045689526d"
+}

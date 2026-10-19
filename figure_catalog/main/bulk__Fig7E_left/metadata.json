@@ -1,0 +1,37 @@
+{
+  "source": "bulk_analysis/codes/surv.su2c.R",
+  "source_sha256": "91c02d8087e600a3f44e42bfe91cd9ea3d3788b09b1830360cb115ca8d910c92",
+  "start": 1,
+  "end": 210,
+  "output_line": 196,
+  "output": "Fig7E_left.pdf",
+  "labels": [
+    "Figure_07E"
+  ],
+  "status": "active",
+  "type": "forest",
+  "notes": [],
+  "inputs": [
+    {
+      "literal": "su2c_clinical_info.xlsx",
+      "resolved_candidate": "bulk_analysis/data/su2c_clinical_info.xlsx",
+      "available": true,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "su2c.mut.info.p53.Rda",
+      "resolved_candidate": "bulk_analysis/data/su2c.mut.info.p53.Rda",
+      "available": true,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "su2c.mut.info.selectgenes1.Rda",
+      "resolved_candidate": "bulk_analysis/data/su2c.mut.info.selectgenes1.Rda",
+      "available": true,
+      "scope": "whole_source_script"
+    }
+  ],
+  "selector": null,
+  "folder": "main/bulk__Fig7E_left",
+  "snippet_sha256": "cb1261dbc19db1dc48328fb6c5ef62f2dcc85952d9e94ce2c0c99f6018b4093a"
+}

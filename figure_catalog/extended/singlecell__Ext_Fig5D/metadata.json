@@ -1,0 +1,34 @@
+{
+  "source": "singlecell_analysis/codes/code_Extended5D_pyscenic.py",
+  "source_sha256": "83494458e01b8bdd6f7ca4b739eab277dac408f022dd2db3748c989f103872b6",
+  "start": 1,
+  "end": 32,
+  "output_line": 32,
+  "output": "Ext_Fig5D.pdf",
+  "labels": [
+    "Extended_05D",
+    "Extended_07D"
+  ],
+  "status": "active",
+  "type": "rank",
+  "notes": [
+    "图号冲突：文件名和输出名为 Extended 5D，代码内部注释为 Extended 7D。"
+  ],
+  "inputs": [
+    {
+      "literal": "HTAN.auc.csv",
+      "resolved_candidate": "singlecell_analysis/data/HTAN.auc.csv",
+      "available": true,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "mes.subset.bysubtype.h5ad",
+      "resolved_candidate": "singlecell_analysis/data/mes.subset.bysubtype.h5ad",
+      "available": true,
+      "scope": "whole_source_script"
+    }
+  ],
+  "selector": null,
+  "folder": "extended/singlecell__Ext_Fig5D",
+  "snippet_sha256": "83494458e01b8bdd6f7ca4b739eab277dac408f022dd2db3748c989f103872b6"
+}

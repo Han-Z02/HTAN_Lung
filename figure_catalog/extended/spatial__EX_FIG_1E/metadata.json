@@ -1,0 +1,25 @@
+{
+  "source": "spatial_analysis/codes/EX_FIG_1E.R",
+  "source_sha256": "48a3819908210a9b7ae28f6acb5b98dc5de9fe0a391946586d968683df33225f",
+  "start": 1,
+  "end": 41,
+  "output_line": 28,
+  "output": "EX_FIG_1E.pdf",
+  "labels": [
+    "Extended_01E"
+  ],
+  "status": "active",
+  "type": "box",
+  "notes": [],
+  "inputs": [
+    {
+      "literal": "spatial_list.Rda",
+      "resolved_candidate": "spatial_analysis/data/spatial_list.Rda",
+      "available": false,
+      "scope": "whole_source_script"
+    }
+  ],
+  "selector": null,
+  "folder": "extended/spatial__EX_FIG_1E",
+  "snippet_sha256": "48a3819908210a9b7ae28f6acb5b98dc5de9fe0a391946586d968683df33225f"
+}

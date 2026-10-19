@@ -1,0 +1,43 @@
+{
+  "source": "bulk_analysis/codes/boxplots.R",
+  "source_sha256": "b7d978f3d59366230b9399049a95a16e18cb00dd52e95015eef035bfc2d96bb0",
+  "start": 224,
+  "end": 231,
+  "output_line": 226,
+  "output": "s4aB.pdf",
+  "labels": [
+    "Extended_04A"
+  ],
+  "status": "active",
+  "type": "box",
+  "notes": [],
+  "inputs": [
+    {
+      "literal": "luad.2018.processed.rds",
+      "resolved_candidate": "bulk_analysis/data/luad.2018.processed.rds",
+      "available": true,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "cptac.luad.prot.processed.rds",
+      "resolved_candidate": "bulk_analysis/data/cptac.luad.prot.processed.rds",
+      "available": true,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "tcga.regression_plots.p53_kras_egfr_stk11_CancerProp.filtered.csv",
+      "resolved_candidate": "bulk_analysis/data/tcga.regression_plots.p53_kras_egfr_stk11_CancerProp.filtered.csv",
+      "available": true,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "smoking_comparison_p53.csv",
+      "resolved_candidate": "bulk_analysis/data/smoking_comparison_p53.csv",
+      "available": true,
+      "scope": "whole_source_script"
+    }
+  ],
+  "selector": null,
+  "folder": "extended/bulk__s4aB",
+  "snippet_sha256": "3df4063f79bf261c8660e08f1fb04bd772ede8b8fb3a0615dd5177531448cfbb"
+}

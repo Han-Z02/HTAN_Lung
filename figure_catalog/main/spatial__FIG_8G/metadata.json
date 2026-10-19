@@ -1,0 +1,25 @@
+{
+  "source": "spatial_analysis/codes/FIG_8G.R",
+  "source_sha256": "d7928007e3cdef7a017250e8d518dc4c32a69562952c323e752e7a2eae75f114",
+  "start": 1,
+  "end": 26,
+  "output_line": 24,
+  "output": "FIG_8G.pdf",
+  "labels": [
+    "Figure_08G"
+  ],
+  "status": "active",
+  "type": "box",
+  "notes": [],
+  "inputs": [
+    {
+      "literal": "jason_input_spp1.csv",
+      "resolved_candidate": "spatial_analysis/data/jason_input_spp1.csv",
+      "available": true,
+      "scope": "whole_source_script"
+    }
+  ],
+  "selector": null,
+  "folder": "main/spatial__FIG_8G",
+  "snippet_sha256": "d7928007e3cdef7a017250e8d518dc4c32a69562952c323e752e7a2eae75f114"
+}

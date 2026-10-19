@@ -1,0 +1,37 @@
+{
+  "source": "bulk_analysis/codes/surv.su2c.R",
+  "source_sha256": "91c02d8087e600a3f44e42bfe91cd9ea3d3788b09b1830360cb115ca8d910c92",
+  "start": 543,
+  "end": 712,
+  "output_line": 698,
+  "output": "Ext_Fig8B_right.pdf",
+  "labels": [
+    "Extended_08B"
+  ],
+  "status": "active",
+  "type": "forest",
+  "notes": [],
+  "inputs": [
+    {
+      "literal": "su2c_clinical_info.xlsx",
+      "resolved_candidate": "bulk_analysis/data/su2c_clinical_info.xlsx",
+      "available": true,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "su2c.mut.info.p53.Rda",
+      "resolved_candidate": "bulk_analysis/data/su2c.mut.info.p53.Rda",
+      "available": true,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "su2c.mut.info.selectgenes1.Rda",
+      "resolved_candidate": "bulk_analysis/data/su2c.mut.info.selectgenes1.Rda",
+      "available": true,
+      "scope": "whole_source_script"
+    }
+  ],
+  "selector": null,
+  "folder": "extended/bulk__Ext_Fig8B_right",
+  "snippet_sha256": "77a6c2758e76d5ea0d66548e5ccc1b050060a316f0fe28e872f55752e8282bf8"
+}

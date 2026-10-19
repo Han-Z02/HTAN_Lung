@@ -1,0 +1,61 @@
+{
+  "source": "singlecell_analysis/codes/code_overall_panels.R",
+  "source_sha256": "2a96aff9a6a30463b13175a36f24c01da6b79b1a91006dbce6db6b0877409334",
+  "start": 347,
+  "end": 356,
+  "output_line": 354,
+  "output": "Fig1_overview/Ext_Fig1B.pdf",
+  "labels": [
+    "Extended_01B"
+  ],
+  "status": "active",
+  "type": "embedding",
+  "notes": [],
+  "inputs": [
+    {
+      "literal": "/R_utils/plotutils.R",
+      "resolved_candidate": "singlecell_analysis/data/R_utils/plotutils.R",
+      "available": true,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "/R_utils/seuratutils.R",
+      "resolved_candidate": "singlecell_analysis/data/R_utils/seuratutils.R",
+      "available": true,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "/R_utils/seuratutilsV3.R",
+      "resolved_candidate": "singlecell_analysis/data/R_utils/seuratutilsV3.R",
+      "available": true,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "/R_utils/color.R",
+      "resolved_candidate": "singlecell_analysis/data/R_utils/color.R",
+      "available": true,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "../zenodo_data/all.merge.Rda",
+      "resolved_candidate": "singlecell_analysis/zenodo_data/all.merge.Rda",
+      "available": false,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "../zenodo_data/malig.Rda",
+      "resolved_candidate": "singlecell_analysis/zenodo_data/malig.Rda",
+      "available": false,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "CNV_corr.csv",
+      "resolved_candidate": "singlecell_analysis/data/CNV_corr.csv",
+      "available": true,
+      "scope": "whole_source_script"
+    }
+  ],
+  "selector": null,
+  "folder": "extended/singlecell__Ext_Fig1B",
+  "snippet_sha256": "c0433a5a69f69655bdcf776d716a57cb8e66056b4f059530413e9049f12f9b6b"
+}

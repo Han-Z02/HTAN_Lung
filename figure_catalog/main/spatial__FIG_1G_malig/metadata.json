@@ -1,0 +1,37 @@
+{
+  "source": "spatial_analysis/codes/FIG_1G.R",
+  "source_sha256": "abdffe15781da9e4da90a99da7af2b97c21b7360e2e35d01d18c5d8d38875092",
+  "start": 31,
+  "end": 88,
+  "output_line": 83,
+  "output": "FIG_1G_malig.pdf",
+  "labels": [
+    "Figure_01G"
+  ],
+  "status": "active",
+  "type": "violin",
+  "notes": [],
+  "inputs": [
+    {
+      "literal": "spatial_list.Rda",
+      "resolved_candidate": "spatial_analysis/data/spatial_list.Rda",
+      "available": false,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "BW11.C_new.csv",
+      "resolved_candidate": "spatial_analysis/BW11.C_new.csv",
+      "available": false,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "_new.csv",
+      "resolved_candidate": "spatial_analysis/_new.csv",
+      "available": false,
+      "scope": "whole_source_script"
+    }
+  ],
+  "selector": null,
+  "folder": "main/spatial__FIG_1G_malig",
+  "snippet_sha256": "dc5e4db893e86e5ea8db09591f04eda1750f8755e935bf55002938fc940eeeb7"
+}

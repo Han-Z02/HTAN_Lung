@@ -1,0 +1,33 @@
+{
+  "source": "bulk_analysis/codes/regressionModel.R",
+  "source_sha256": "373af16650cfa94516adc10684fdd94693fa88cc01e4a7f5f1e774e50e3a950f",
+  "start": 166,
+  "end": 168,
+  "output_line": null,
+  "output": "Figure_3C_placeholder",
+  "labels": [
+    "Figure_03C"
+  ],
+  "status": "missing_code",
+  "type": "unknown",
+  "notes": [
+    "原代码仅有 FIG 3C / add code here 注释，无法提供实现或原图。"
+  ],
+  "inputs": [
+    {
+      "literal": "luad.2018.processed.rds",
+      "resolved_candidate": "bulk_analysis/data/luad.2018.processed.rds",
+      "available": true,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "new_regression_plot.csv",
+      "resolved_candidate": "bulk_analysis/data/new_regression_plot.csv",
+      "available": true,
+      "scope": "whole_source_script"
+    }
+  ],
+  "selector": null,
+  "folder": "history_and_missing/bulk__Figure_3C_placeholder",
+  "snippet_sha256": "77f73db6121b4abea0e1e036a1f174888fc633e0cb84e4c6359867f1f3c75dee"
+}

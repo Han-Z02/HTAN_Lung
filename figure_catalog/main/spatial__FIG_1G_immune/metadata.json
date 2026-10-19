@@ -1,0 +1,37 @@
+{
+  "source": "spatial_analysis/codes/FIG_1G.R",
+  "source_sha256": "abdffe15781da9e4da90a99da7af2b97c21b7360e2e35d01d18c5d8d38875092",
+  "start": 99,
+  "end": 108,
+  "output_line": 103,
+  "output": "FIG_1G_immune.pdf",
+  "labels": [
+    "Figure_01G"
+  ],
+  "status": "active",
+  "type": "violin",
+  "notes": [],
+  "inputs": [
+    {
+      "literal": "spatial_list.Rda",
+      "resolved_candidate": "spatial_analysis/data/spatial_list.Rda",
+      "available": false,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "BW11.C_new.csv",
+      "resolved_candidate": "spatial_analysis/BW11.C_new.csv",
+      "available": false,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "_new.csv",
+      "resolved_candidate": "spatial_analysis/_new.csv",
+      "available": false,
+      "scope": "whole_source_script"
+    }
+  ],
+  "selector": null,
+  "folder": "main/spatial__FIG_1G_immune",
+  "snippet_sha256": "311c62903053b3f18b1aad14346fd46eafc7625b2c1178e8c49fa7aa9d86ecb9"
+}

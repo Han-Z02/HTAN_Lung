@@ -1,0 +1,31 @@
+{
+  "source": "bulk_analysis/codes/survival.R",
+  "source_sha256": "ea6fa681238e5a2f8b907bb7f75fdc3c5afb896e8a68670ee4b804ddf86616b5",
+  "start": 104,
+  "end": 124,
+  "output_line": 123,
+  "output": "s2g.pdf",
+  "labels": [
+    "Extended_02G"
+  ],
+  "status": "active",
+  "type": "survival",
+  "notes": [],
+  "inputs": [
+    {
+      "literal": "df.km.csv",
+      "resolved_candidate": "bulk_analysis/data/df.km.csv",
+      "available": true,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "survival_maligv9_pvals_tp53_status_top50_vs_bottom50.csv",
+      "resolved_candidate": "bulk_analysis/data/survival_maligv9_pvals_tp53_status_top50_vs_bottom50.csv",
+      "available": true,
+      "scope": "whole_source_script"
+    }
+  ],
+  "selector": null,
+  "folder": "extended/bulk__s2g",
+  "snippet_sha256": "eaf9638cbf9bcd359398d9fd941862b2d8ca234ad8f9c85d83da0deaa44eb818"
+}

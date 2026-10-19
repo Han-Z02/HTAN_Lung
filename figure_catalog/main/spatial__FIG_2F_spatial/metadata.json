@@ -1,0 +1,31 @@
+{
+  "source": "spatial_analysis/codes/FIG_2F.R",
+  "source_sha256": "77668a02a6c45aeb9bbec2a269016d1d4a03ae2a1f8ae18ee332d9c3eefeb93c",
+  "start": 1,
+  "end": 17,
+  "output_line": 15,
+  "output": "FIG_2F_spatial.pdf",
+  "labels": [
+    "Figure_02F"
+  ],
+  "status": "active",
+  "type": "spatial",
+  "notes": [],
+  "inputs": [
+    {
+      "literal": "spatial_list.Rda",
+      "resolved_candidate": "spatial_analysis/data/spatial_list.Rda",
+      "available": false,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "spatial_list_factor14_subtypelvl_sigs.corr.df.csv",
+      "resolved_candidate": "spatial_analysis/data/spatial_list_factor14_subtypelvl_sigs.corr.df.csv",
+      "available": true,
+      "scope": "whole_source_script"
+    }
+  ],
+  "selector": null,
+  "folder": "main/spatial__FIG_2F_spatial",
+  "snippet_sha256": "1c2e77295d26a9e89b9a36d61d2ab3d061553f84e7ba0f8cb1e4be516015a3d4"
+}

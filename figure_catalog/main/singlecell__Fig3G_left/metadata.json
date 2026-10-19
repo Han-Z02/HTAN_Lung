@@ -1,0 +1,145 @@
+{
+  "source": "singlecell_analysis/codes/code_malig_panels.R",
+  "source_sha256": "65071a20d1c0aadf64c8d81a254fd3a0507a3409a22e79864102cbe36e506fd3",
+  "start": 294,
+  "end": 355,
+  "output_line": 353,
+  "output": "Fig3G_left.pdf",
+  "labels": [
+    "Figure_03G"
+  ],
+  "status": "active",
+  "type": "violin",
+  "notes": [],
+  "inputs": [
+    {
+      "literal": "/R_utils/plotutils.R",
+      "resolved_candidate": "singlecell_analysis/data/R_utils/plotutils.R",
+      "available": true,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "/R_utils/seuratutils.R",
+      "resolved_candidate": "singlecell_analysis/data/R_utils/seuratutils.R",
+      "available": true,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "/R_utils/seuratutilsV3.R",
+      "resolved_candidate": "singlecell_analysis/data/R_utils/seuratutilsV3.R",
+      "available": true,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "/R_utils/color.R",
+      "resolved_candidate": "singlecell_analysis/data/R_utils/color.R",
+      "available": true,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "../zenodo_data/malig.Rda",
+      "resolved_candidate": "singlecell_analysis/zenodo_data/malig.Rda",
+      "available": false,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "malig.corr.cells.Rda",
+      "resolved_candidate": "singlecell_analysis/data/malig.corr.cells.Rda",
+      "available": true,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "lung.sigs.avg.rbind.Rda",
+      "resolved_candidate": "singlecell_analysis/data/lung.sigs.avg.rbind.Rda",
+      "available": true,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "addmodulescore.maligprog.A549celllines.Rda",
+      "resolved_candidate": "singlecell_analysis/data/addmodulescore.maligprog.A549celllines.Rda",
+      "available": true,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "addmodulescore.maligprog.KPmouse.smartseq.Rda",
+      "resolved_candidate": "singlecell_analysis/data/addmodulescore.maligprog.KPmouse.smartseq.Rda",
+      "available": true,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "exp_Hif1a_kp_mouse_30wks.Rda",
+      "resolved_candidate": "singlecell_analysis/data/exp_Hif1a_kp_mouse_30wks.Rda",
+      "available": true,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "ccat.df.sc.nonmalig.wt.mut.subset.Rda",
+      "resolved_candidate": "singlecell_analysis/data/ccat.df.sc.nonmalig.wt.mut.subset.Rda",
+      "available": true,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "ccat.df_smartseq2.Rda",
+      "resolved_candidate": "singlecell_analysis/data/ccat.df_smartseq2.Rda",
+      "available": true,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "ccat.df.malig.subset.Rda",
+      "resolved_candidate": "singlecell_analysis/data/ccat.df.malig.subset.Rda",
+      "available": true,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "conf_mtx.Rda",
+      "resolved_candidate": "singlecell_analysis/data/conf_mtx.Rda",
+      "available": true,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "ccat.df.tp53.celllines.Rda",
+      "resolved_candidate": "singlecell_analysis/data/ccat.df.tp53.celllines.Rda",
+      "available": true,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "Top100.Cancer.subtype.markers.wilcox.rankedlogfc.csv",
+      "resolved_candidate": "singlecell_analysis/data/Top100.Cancer.subtype.markers.wilcox.rankedlogfc.csv",
+      "available": true,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "corr.pts.Rda",
+      "resolved_candidate": "singlecell_analysis/data/corr.pts.Rda",
+      "available": true,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "meta_30_20_top_nmf_genes.Rda",
+      "resolved_candidate": "singlecell_analysis/data/meta_30_20_top_nmf_genes.Rda",
+      "available": true,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "Ext_Fig2H_modulescore.Rda",
+      "resolved_candidate": "singlecell_analysis/data/Ext_Fig2H_modulescore.Rda",
+      "available": true,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "TableS1.xlsx",
+      "resolved_candidate": "singlecell_analysis/data/TableS1.xlsx",
+      "available": true,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "ccat.df.kras.celllines.Rda",
+      "resolved_candidate": "singlecell_analysis/data/ccat.df.kras.celllines.Rda",
+      "available": true,
+      "scope": "whole_source_script"
+    }
+  ],
+  "selector": null,
+  "folder": "main/singlecell__Fig3G_left",
+  "snippet_sha256": "04dd6c36d4c9834048e79fa3bf6efe3d9eb1b703ef0e106095665abf71340b3d"
+}

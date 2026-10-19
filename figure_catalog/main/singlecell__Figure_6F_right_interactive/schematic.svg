@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="420" viewBox="0 0 920 420">
+<title>Figure_6F_right_interactive — 图形结构示意</title>
+<desc>根据绘图代码制作的结构示意，不含研究数据；不表示实际趋势、数值或显著性。</desc>
+<rect width="920" height="420" rx="16" fill="#f5f7fb"/>
+<style>text{font-family:Arial,"Noto Sans CJK SC",sans-serif;fill:#233047} .muted{fill:#64748b} .line{stroke:#94a3b8;stroke-width:2;fill:none}</style>
+<text x="28" y="36" font-size="19" font-weight="bold">Figure_6F_right_interactive</text>
+<text x="28" y="63" font-size="14" fill="#b45309">结构示意 · SCHEMATIC ONLY · 无真实数据 / 非论文原图</text>
+<rect x="28" y="84" width="490" height="265" rx="10" fill="white" stroke="#dbe2ed"/>
+<line x1="85" y1="310" x2="460" y2="310" stroke="#94a3b8" stroke-width="2"/>
+<line x1="85" y1="118" x2="85" y2="310" stroke="#94a3b8" stroke-width="2"/>
+<circle cx="108" cy="142" r="4" fill="#2d87b5" opacity="0.8"/>
+<circle cx="175" cy="185" r="4" fill="#d75c66" opacity="0.8"/>
+<circle cx="242" cy="228" r="4" fill="#2d87b5" opacity="0.8"/>
+<circle cx="309" cy="271" r="4" fill="#d75c66" opacity="0.8"/>
+<circle cx="376" cy="174" r="4" fill="#2d87b5" opacity="0.8"/>
+<circle cx="118" cy="217" r="4" fill="#d75c66" opacity="0.8"/>
+<circle cx="185" cy="260" r="4" fill="#2d87b5" opacity="0.8"/>
+<circle cx="252" cy="163" r="4" fill="#d75c66" opacity="0.8"/>
+<circle cx="319" cy="206" r="4" fill="#2d87b5" opacity="0.8"/>
+<circle cx="386" cy="249" r="4" fill="#d75c66" opacity="0.8"/>
+<circle cx="128" cy="152" r="4" fill="#2d87b5" opacity="0.8"/>
+<circle cx="195" cy="195" r="4" fill="#d75c66" opacity="0.8"/>
+<circle cx="262" cy="238" r="4" fill="#2d87b5" opacity="0.8"/>
+<circle cx="329" cy="281" r="4" fill="#d75c66" opacity="0.8"/>
+<circle cx="396" cy="184" r="4" fill="#2d87b5" opacity="0.8"/>
+<circle cx="138" cy="227" r="4" fill="#d75c66" opacity="0.8"/>
+<circle cx="205" cy="270" r="4" fill="#2d87b5" opacity="0.8"/>
+<circle cx="272" cy="173" r="4" fill="#d75c66" opacity="0.8"/>
+<circle cx="339" cy="216" r="4" fill="#2d87b5" opacity="0.8"/>
+<circle cx="406" cy="259" r="4" fill="#d75c66" opacity="0.8"/>
+<circle cx="148" cy="162" r="4" fill="#2d87b5" opacity="0.8"/>
+<circle cx="215" cy="205" r="4" fill="#d75c66" opacity="0.8"/>
+<circle cx="282" cy="248" r="4" fill="#2d87b5" opacity="0.8"/>
+<circle cx="349" cy="151" r="4" fill="#d75c66" opacity="0.8"/>
+<circle cx="416" cy="194" r="4" fill="#2d87b5" opacity="0.8"/>
+<circle cx="158" cy="237" r="4" fill="#d75c66" opacity="0.8"/>
+<circle cx="225" cy="280" r="4" fill="#2d87b5" opacity="0.8"/>
+<circle cx="292" cy="183" r="4" fill="#d75c66" opacity="0.8"/>
+<circle cx="359" cy="226" r="4" fill="#2d87b5" opacity="0.8"/>
+<circle cx="426" cy="269" r="4" fill="#d75c66" opacity="0.8"/>
+<text x="195" y="332" font-size="13">X / rank</text>
+<text x="548" y="119" font-size="20" font-weight="bold">散点/相关性图</text>
+<text x="548" y="154" font-size="15">Figure_06F</text>
+<text x="548" y="186" font-size="14">singlecell_analysis</text>
+<text x="548" y="215" font-size="14">源代码：L375–L461</text>
+<text x="548" y="260" font-size="14" class="muted">几何形状仅说明图形类型。</text>
+<text x="548" y="285" font-size="14" class="muted">位置、颜色、曲线均非研究结果。</text>
+<text x="28" y="382" font-size="14" class="muted">对应代码、输入文件和图号冲突说明见同目录 README.md / metadata.json</text>
+</svg>

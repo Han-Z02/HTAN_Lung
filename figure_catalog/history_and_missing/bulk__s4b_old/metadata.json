@@ -1,0 +1,33 @@
+{
+  "source": "bulk_analysis/codes/regressionModel.R",
+  "source_sha256": "373af16650cfa94516adc10684fdd94693fa88cc01e4a7f5f1e774e50e3a950f",
+  "start": 185,
+  "end": 202,
+  "output_line": null,
+  "output": "s4b_old.pdf",
+  "labels": [
+    "Extended_04B"
+  ],
+  "status": "archived",
+  "type": "dot",
+  "notes": [
+    "原注释写明该图在修订时被移除。"
+  ],
+  "inputs": [
+    {
+      "literal": "luad.2018.processed.rds",
+      "resolved_candidate": "bulk_analysis/data/luad.2018.processed.rds",
+      "available": true,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "new_regression_plot.csv",
+      "resolved_candidate": "bulk_analysis/data/new_regression_plot.csv",
+      "available": true,
+      "scope": "whole_source_script"
+    }
+  ],
+  "selector": null,
+  "folder": "history_and_missing/bulk__s4b_old",
+  "snippet_sha256": "bedfffacae5095e93382c240f100422cefd65faa6b7f7d54c1ede823a447bac5"
+}

@@ -1,0 +1,39 @@
+{
+  "source": "bulk_analysis/codes/entropy.R",
+  "source_sha256": "80f580b8d5bba52c04dde3076f05d436da5e6bc38729259fc401c91680dab897",
+  "start": 155,
+  "end": 183,
+  "output_line": null,
+  "output": "new_entropy.comut4.pdf",
+  "labels": [
+    "Extended_05C"
+  ],
+  "status": "archived",
+  "type": "violin",
+  "notes": [
+    "该代码全部注释；相邻 Figure 3J 为另一个含正常组织的现行版本。"
+  ],
+  "inputs": [
+    {
+      "literal": "luad.2018.processed.rds",
+      "resolved_candidate": "bulk_analysis/data/luad.2018.processed.rds",
+      "available": true,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "combined.luad.2018.rds",
+      "resolved_candidate": "bulk_analysis/data/combined.luad.2018.rds",
+      "available": true,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "cptac.luad.prot.processed.rds",
+      "resolved_candidate": "bulk_analysis/data/cptac.luad.prot.processed.rds",
+      "available": true,
+      "scope": "whole_source_script"
+    }
+  ],
+  "selector": null,
+  "folder": "history_and_missing/bulk__new_entropy_comut4",
+  "snippet_sha256": "f0fcd41582da8eca09d40cbcb4447e335285c8c0f55f10dcd416342610af6996"
+}

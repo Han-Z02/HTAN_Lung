@@ -1,0 +1,25 @@
+{
+  "source": "spatial_analysis/codes/FIG_7D.R",
+  "source_sha256": "fb9d806a67631889eb1512bc55d522e28ae39559648999745af28f26fd951f71",
+  "start": 1,
+  "end": 33,
+  "output_line": 31,
+  "output": "FIG_7D.pdf",
+  "labels": [
+    "Figure_07D"
+  ],
+  "status": "active",
+  "type": "box",
+  "notes": [],
+  "inputs": [
+    {
+      "literal": "IP_plot_input_rois_Jason.csv",
+      "resolved_candidate": "spatial_analysis/data/IP_plot_input_rois_Jason.csv",
+      "available": true,
+      "scope": "whole_source_script"
+    }
+  ],
+  "selector": null,
+  "folder": "main/spatial__FIG_7D",
+  "snippet_sha256": "fb9d806a67631889eb1512bc55d522e28ae39559648999745af28f26fd951f71"
+}

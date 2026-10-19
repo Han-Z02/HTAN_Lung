@@ -2,6 +2,12 @@
 
 # HTAN_Lung
 
+## 逐图代码与示意图目录
+
+查看 [figure_catalog 逐图索引](figure_catalog/README.md)：按独立输出整理主图、Extended Data 图、批量样本图与历史版本，每个子文件夹包含图形结构示意、对应代码片段、完整原脚本和中文说明。原分析目录保持原样。
+
+仓库没有上传大多数论文结果图；目录中的 SVG 为明确标注的结构示意，不包含真实数据。原有 PDF 单独保留，缺失数据、缺失实现和图号冲突均有注明。
+
 This repository contains custom code to reproduce main analyses in our manuscript, "A cellular and spatial atlas of TP53-associated tissue remodeling defines a multicellular tumor ecosystem in lung adenocarcinoma."
 
 Processed scRNA-seq data, spatial transcriptomic data, and mutation information can be downloaded at https://doi.org/10.5281/zenodo.16546233.

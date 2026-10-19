@@ -1,0 +1,25 @@
+{
+  "source": "spatial_analysis/codes/FIG_8B.R",
+  "source_sha256": "bc9f0c94076f8f2afa2756ee90238c2f4af96f1dce2041c453b5fa3a9fc9a479",
+  "start": 45,
+  "end": 61,
+  "output_line": 55,
+  "output": "FIG_8B_end_cancer.pdf",
+  "labels": [
+    "Figure_08B"
+  ],
+  "status": "active",
+  "type": "box",
+  "notes": [],
+  "inputs": [
+    {
+      "literal": "spatial_list_factor14_highlvl.corr.df.csv",
+      "resolved_candidate": "spatial_analysis/data/spatial_list_factor14_highlvl.corr.df.csv",
+      "available": true,
+      "scope": "whole_source_script"
+    }
+  ],
+  "selector": null,
+  "folder": "main/spatial__FIG_8B_end_cancer",
+  "snippet_sha256": "0ad9bb871595633eec0a65c9ef7d3717bc199adedeb10390af5c6d3572001e69"
+}

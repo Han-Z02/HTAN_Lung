@@ -1,0 +1,28 @@
+{
+  "source": "spatial_analysis/codes/run_infercnv.py",
+  "source_sha256": "65fe0ecd71a2598ef0a32d8d9784bcf091c813976d18a5881fdfc706631d6881",
+  "start": 1,
+  "end": 62,
+  "output_line": 62,
+  "output": "MGH1174_D_cnv_score.pdf",
+  "labels": [],
+  "status": "active",
+  "type": "spatial",
+  "notes": [
+    "每个 slide 单独收录；Scanpy 可能自动添加 spatial 前缀。最终路径受原代码 ScanpyConfig.figdir 设置及库版本影响。"
+  ],
+  "inputs": [
+    {
+      "literal": "{slide}.h5ad",
+      "resolved_candidate": null,
+      "available": false,
+      "scope": "whole_source_script"
+    }
+  ],
+  "selector": {
+    "iteration": 5,
+    "count": 5
+  },
+  "folder": "other/spatial__MGH1174_D_cnv_score",
+  "snippet_sha256": "969775f007ceccdb658872aa7079527fcac0dd2545fff315e752a073c4cbc2a6"
+}

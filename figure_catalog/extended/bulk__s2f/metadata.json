@@ -1,0 +1,31 @@
+{
+  "source": "bulk_analysis/codes/regressionModel.R",
+  "source_sha256": "373af16650cfa94516adc10684fdd94693fa88cc01e4a7f5f1e774e50e3a950f",
+  "start": 164,
+  "end": 182,
+  "output_line": 178,
+  "output": "s2f.pdf",
+  "labels": [
+    "Extended_02F"
+  ],
+  "status": "active",
+  "type": "dot",
+  "notes": [],
+  "inputs": [
+    {
+      "literal": "luad.2018.processed.rds",
+      "resolved_candidate": "bulk_analysis/data/luad.2018.processed.rds",
+      "available": true,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "new_regression_plot.csv",
+      "resolved_candidate": "bulk_analysis/data/new_regression_plot.csv",
+      "available": true,
+      "scope": "whole_source_script"
+    }
+  ],
+  "selector": null,
+  "folder": "extended/bulk__s2f",
+  "snippet_sha256": "01524fef603ffca981562594633e4ff28ab4b2f1c6106d4c631b1aa7ca94fc62"
+}

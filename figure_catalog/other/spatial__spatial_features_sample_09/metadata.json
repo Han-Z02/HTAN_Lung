@@ -1,0 +1,29 @@
+{
+  "source": "spatial_analysis/codes/all_spatial_plots.R",
+  "source_sha256": "b64d99e650350ba13f925005eaa42bf5e46e3f5a6944ff2652c1c8f369d3b08e",
+  "start": 1,
+  "end": 20,
+  "output_line": 18,
+  "output": "spatial_features_sample_09.pdf",
+  "labels": [],
+  "status": "active",
+  "type": "spatial",
+  "notes": [
+    "批量输出第 9/14 个样本；原始 spatial_list 下标 11。实际文件名为 names(spatial_list)[i] + .pdf，样本名需读取外部数据确定。",
+    "原脚本首行将该批次关联到 Fig 3D、3I、4I、5G；该注释可能使用旧图号，保留原文而不推断最终归属。"
+  ],
+  "inputs": [
+    {
+      "literal": "spatial_list.Rda",
+      "resolved_candidate": "spatial_analysis/data/spatial_list.Rda",
+      "available": false,
+      "scope": "whole_source_script"
+    }
+  ],
+  "selector": {
+    "iteration": 9,
+    "count": 14
+  },
+  "folder": "other/spatial__spatial_features_sample_09",
+  "snippet_sha256": "5e2cdb013261c13bf8afdb667c024ea1186cc9a94f3fa4af874125b99d33bbb3"
+}

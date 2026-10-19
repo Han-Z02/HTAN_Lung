@@ -1,0 +1,25 @@
+{
+  "source": "spatial_analysis/codes/FIG_7C.R",
+  "source_sha256": "3d8d3465d4aa786f65eddc9ece432cc3ee4b7bdd68ffd1cee15d9cb4c76a92bb",
+  "start": 1,
+  "end": 30,
+  "output_line": 28,
+  "output": "FIG_7C.pdf",
+  "labels": [
+    "Figure_07C"
+  ],
+  "status": "active",
+  "type": "scatter",
+  "notes": [],
+  "inputs": [
+    {
+      "literal": "Jason_generate_plots.csv",
+      "resolved_candidate": "spatial_analysis/data/Jason_generate_plots.csv",
+      "available": true,
+      "scope": "whole_source_script"
+    }
+  ],
+  "selector": null,
+  "folder": "main/spatial__FIG_7C",
+  "snippet_sha256": "3d8d3465d4aa786f65eddc9ece432cc3ee4b7bdd68ffd1cee15d9cb4c76a92bb"
+}

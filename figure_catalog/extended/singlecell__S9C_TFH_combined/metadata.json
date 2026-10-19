@@ -1,0 +1,82 @@
+{
+  "source": "singlecell_analysis/codes/code_lymphoid_panels.R",
+  "source_sha256": "2b80b1140f219654bb1476167c1aebc10cd9153db22edf16dafe14c3e8cf6eba",
+  "start": 136,
+  "end": 157,
+  "output_line": 155,
+  "output": "S9C_TFH_combined.pdf",
+  "labels": [
+    "Extended_09C",
+    "Extended_07C"
+  ],
+  "status": "active",
+  "type": "box",
+  "notes": [
+    "图号冲突：输出名是 S9C，但位于 S7C_continue 章节。可同时在 Extended 7C / 9C 下查找，最终论文归属待核对。"
+  ],
+  "inputs": [
+    {
+      "literal": "/R_utils/plotutils.R",
+      "resolved_candidate": "singlecell_analysis/data/R_utils/plotutils.R",
+      "available": true,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "/R_utils/seuratutils.R",
+      "resolved_candidate": "singlecell_analysis/data/R_utils/seuratutils.R",
+      "available": true,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "/R_utils/seuratutilsV3.R",
+      "resolved_candidate": "singlecell_analysis/data/R_utils/seuratutilsV3.R",
+      "available": true,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "/R_utils/color.R",
+      "resolved_candidate": "singlecell_analysis/data/R_utils/color.R",
+      "available": true,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "../zenodo_data/tcell.final.nodoublets.Rda",
+      "resolved_candidate": "singlecell_analysis/zenodo_data/tcell.final.nodoublets.Rda",
+      "available": false,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "bcell.final.nodoublets.Rda",
+      "resolved_candidate": "singlecell_analysis/codes/bcell.final.nodoublets.Rda",
+      "available": false,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "tnk.validation.Rda",
+      "resolved_candidate": "singlecell_analysis/codes/tnk.validation.Rda",
+      "available": false,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "lig_rec_differential_htan_df_not_allzeros.Rda",
+      "resolved_candidate": "singlecell_analysis/data/lig_rec_differential_htan_df_not_allzeros.Rda",
+      "available": true,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "viz_comb.df.Rda",
+      "resolved_candidate": "singlecell_analysis/data/viz_comb.df.Rda",
+      "available": true,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "../zenodo_data/malig.Rda",
+      "resolved_candidate": "singlecell_analysis/zenodo_data/malig.Rda",
+      "available": false,
+      "scope": "whole_source_script"
+    }
+  ],
+  "selector": null,
+  "folder": "extended/singlecell__S9C_TFH_combined",
+  "snippet_sha256": "bb27502299c9f773371d9ea6fb813fdff146179527664e3013b950b3ec6396fd"
+}

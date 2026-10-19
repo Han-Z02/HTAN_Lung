@@ -1,0 +1,25 @@
+{
+  "source": "spatial_analysis/codes/FIG_8C.R",
+  "source_sha256": "69f91786f095f57b39decdf69e13df43bfe0db84b52859cbd798766e3b786298",
+  "start": 1,
+  "end": 41,
+  "output_line": 31,
+  "output": "FIG_8C.pdf",
+  "labels": [
+    "Figure_08C"
+  ],
+  "status": "active",
+  "type": "heatmap",
+  "notes": [],
+  "inputs": [
+    {
+      "literal": "NMF_cell_type_values_15.csv",
+      "resolved_candidate": "spatial_analysis/data/NMF_cell_type_values_15.csv",
+      "available": true,
+      "scope": "whole_source_script"
+    }
+  ],
+  "selector": null,
+  "folder": "main/spatial__FIG_8C",
+  "snippet_sha256": "69f91786f095f57b39decdf69e13df43bfe0db84b52859cbd798766e3b786298"
+}

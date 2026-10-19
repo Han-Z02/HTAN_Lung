@@ -1,0 +1,49 @@
+{
+  "source": "spatial_analysis/codes/EX_FIG_5F.R",
+  "source_sha256": "80241cd0fc100dcbb90bf8ed5ea7cea1f5ff2d245ef037024ff1750ac5819d7a",
+  "start": 1,
+  "end": 34,
+  "output_line": 32,
+  "output": "EX_FIG_5F.pdf",
+  "labels": [
+    "Extended_05F"
+  ],
+  "status": "active",
+  "type": "heatmap",
+  "notes": [],
+  "inputs": [
+    {
+      "literal": "/R_utils/plotutils.R",
+      "resolved_candidate": "spatial_analysis/data/R_utils/plotutils.R",
+      "available": true,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "/R_utils/seuratutils.R",
+      "resolved_candidate": "spatial_analysis/data/R_utils/seuratutils.R",
+      "available": true,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "/R_utils/seuratutilsV3.R",
+      "resolved_candidate": "spatial_analysis/data/R_utils/seuratutilsV3.R",
+      "available": true,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "/R_utils/color.R",
+      "resolved_candidate": "spatial_analysis/data/R_utils/color.R",
+      "available": true,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "spatial_list.Rda",
+      "resolved_candidate": "spatial_analysis/data/spatial_list.Rda",
+      "available": false,
+      "scope": "whole_source_script"
+    }
+  ],
+  "selector": null,
+  "folder": "extended/spatial__EX_FIG_5F",
+  "snippet_sha256": "80241cd0fc100dcbb90bf8ed5ea7cea1f5ff2d245ef037024ff1750ac5819d7a"
+}

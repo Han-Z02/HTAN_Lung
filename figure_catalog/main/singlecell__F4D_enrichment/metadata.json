@@ -1,0 +1,58 @@
+{
+  "source": "singlecell_analysis/codes/code_myeloid_panels.R",
+  "source_sha256": "ee847ec1932df9ebebaff8c16a66c9317491a997008fc460fcf913b9950228c9",
+  "start": 154,
+  "end": 189,
+  "output_line": 184,
+  "output": "F4D_enrichment.pdf",
+  "labels": [
+    "Figure_04D",
+    "Figure_05D"
+  ],
+  "status": "active",
+  "type": "bar",
+  "notes": [
+    "图号冲突：章节注释为 F5D pathway enrichment，输出文件却为 F4D_enrichment.pdf。保留两者，未擅自更正。"
+  ],
+  "inputs": [
+    {
+      "literal": "/R_utils/plotutils.R",
+      "resolved_candidate": "singlecell_analysis/data/R_utils/plotutils.R",
+      "available": true,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "/R_utils/seuratutils.R",
+      "resolved_candidate": "singlecell_analysis/data/R_utils/seuratutils.R",
+      "available": true,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "/R_utils/seuratutilsV3.R",
+      "resolved_candidate": "singlecell_analysis/data/R_utils/seuratutilsV3.R",
+      "available": true,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "/R_utils/color.R",
+      "resolved_candidate": "singlecell_analysis/data/R_utils/color.R",
+      "available": true,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "../zenodo_data/myeloid.final.nodoublets.Rda",
+      "resolved_candidate": "singlecell_analysis/zenodo_data/myeloid.final.nodoublets.Rda",
+      "available": false,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "lig_rec_differential_highlvl_df_not_allzeros.Rda",
+      "resolved_candidate": "singlecell_analysis/data/lig_rec_differential_highlvl_df_not_allzeros.Rda",
+      "available": true,
+      "scope": "whole_source_script"
+    }
+  ],
+  "selector": null,
+  "folder": "main/singlecell__F4D_enrichment",
+  "snippet_sha256": "c5eaeb2dc27f04a97a56e99986d461ae6273d8e7b57ee83d47737e686e1676d1"
+}

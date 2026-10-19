@@ -1,0 +1,25 @@
+{
+  "source": "spatial_analysis/codes/EX_FIG_9C.R",
+  "source_sha256": "68c752df759605483b18b804451a32f0047737c89e90bc494efc142569f165a6",
+  "start": 1,
+  "end": 22,
+  "output_line": 19,
+  "output": "EX_FIG_9C.pdf",
+  "labels": [
+    "Extended_09C"
+  ],
+  "status": "active",
+  "type": "trend",
+  "notes": [],
+  "inputs": [
+    {
+      "literal": "spatial_list.Rda",
+      "resolved_candidate": "spatial_analysis/data/spatial_list.Rda",
+      "available": false,
+      "scope": "whole_source_script"
+    }
+  ],
+  "selector": null,
+  "folder": "extended/spatial__EX_FIG_9C",
+  "snippet_sha256": "68c752df759605483b18b804451a32f0047737c89e90bc494efc142569f165a6"
+}

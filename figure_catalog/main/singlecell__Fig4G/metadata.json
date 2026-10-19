@@ -1,0 +1,73 @@
+{
+  "source": "singlecell_analysis/codes/code_mesenchymal_panels.R",
+  "source_sha256": "54ecb79702a1f97af373e019e116aff34612b784929e3c7736f824ee6d529ddc",
+  "start": 79,
+  "end": 104,
+  "output_line": 101,
+  "output": "Fig4G.pdf",
+  "labels": [
+    "Figure_04G"
+  ],
+  "status": "active",
+  "type": "heatmap",
+  "notes": [],
+  "inputs": [
+    {
+      "literal": "/R_utils/plotutils.R",
+      "resolved_candidate": "singlecell_analysis/data/R_utils/plotutils.R",
+      "available": true,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "/R_utils/seuratutils.R",
+      "resolved_candidate": "singlecell_analysis/data/R_utils/seuratutils.R",
+      "available": true,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "/R_utils/seuratutilsV3.R",
+      "resolved_candidate": "singlecell_analysis/data/R_utils/seuratutilsV3.R",
+      "available": true,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "/R_utils/color.R",
+      "resolved_candidate": "singlecell_analysis/data/R_utils/color.R",
+      "available": true,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "../zenodo_data/mes.final.nodoublets.Rda",
+      "resolved_candidate": "singlecell_analysis/zenodo_data/mes.final.nodoublets.Rda",
+      "available": false,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "Fig4F_metadata_labeltrans.Rda",
+      "resolved_candidate": "singlecell_analysis/data/Fig4F_metadata_labeltrans.Rda",
+      "available": true,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "mes_pyscenic_subtype_zscore.csv",
+      "resolved_candidate": "singlecell_analysis/data/mes_pyscenic_subtype_zscore.csv",
+      "available": true,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "meta.caf.modulescore.top20.paper.top20.ours.rna.assay.Rda",
+      "resolved_candidate": "singlecell_analysis/data/meta.caf.modulescore.top20.paper.top20.ours.rna.assay.Rda",
+      "available": true,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "lig_rec_differential_highlvl_df_not_allzeros.Rda",
+      "resolved_candidate": "singlecell_analysis/data/lig_rec_differential_highlvl_df_not_allzeros.Rda",
+      "available": true,
+      "scope": "whole_source_script"
+    }
+  ],
+  "selector": null,
+  "folder": "main/singlecell__Fig4G",
+  "snippet_sha256": "8326951c9a0ca6f07ffc7f124125a05a84991d3fba927e0a2d2d798d5daa8f8f"
+}

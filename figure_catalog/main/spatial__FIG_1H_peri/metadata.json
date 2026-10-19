@@ -1,0 +1,25 @@
+{
+  "source": "spatial_analysis/codes/FIG_1H.R",
+  "source_sha256": "b2abf5cc69fd7e9ba111f10e0365009b2fbbaf5c36d6f6654f4c04a9b2fb3427",
+  "start": 1,
+  "end": 36,
+  "output_line": 30,
+  "output": "FIG_1H_peri.pdf",
+  "labels": [
+    "Figure_01H"
+  ],
+  "status": "active",
+  "type": "box",
+  "notes": [],
+  "inputs": [
+    {
+      "literal": "spatial_list.Rda",
+      "resolved_candidate": "spatial_analysis/data/spatial_list.Rda",
+      "available": false,
+      "scope": "whole_source_script"
+    }
+  ],
+  "selector": null,
+  "folder": "main/spatial__FIG_1H_peri",
+  "snippet_sha256": "dee5f3b24affc9e2d2aa264464ff5d641decf7a1dbb46227d1002e348e852861"
+}

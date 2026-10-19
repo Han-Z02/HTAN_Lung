@@ -1,0 +1,25 @@
+{
+  "source": "spatial_analysis/codes/FIG_8E.R",
+  "source_sha256": "e68c2577f7f374b8867251201ac53111dc4c20d781b9785580fa3acca4070e12",
+  "start": 42,
+  "end": 56,
+  "output_line": 50,
+  "output": "FIG_8E_endo_nmf.pdf",
+  "labels": [
+    "Figure_08E"
+  ],
+  "status": "active",
+  "type": "box",
+  "notes": [],
+  "inputs": [
+    {
+      "literal": "spatial_list_u50_factor14_highlvl_sigs.corr.df.csv",
+      "resolved_candidate": "spatial_analysis/data/spatial_list_u50_factor14_highlvl_sigs.corr.df.csv",
+      "available": true,
+      "scope": "whole_source_script"
+    }
+  ],
+  "selector": null,
+  "folder": "main/spatial__FIG_8E_endo_nmf",
+  "snippet_sha256": "d8ad48bb69b82b0969f826caadbbcb2c614ba8d508158696c43da873490a60de"
+}

@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="420" viewBox="0 0 920 420">
+<title>FIG_1G_spatial_patho.pdf — 图形结构示意</title>
+<desc>根据绘图代码制作的结构示意，不含研究数据；不表示实际趋势、数值或显著性。</desc>
+<rect width="920" height="420" rx="16" fill="#f5f7fb"/>
+<style>text{font-family:Arial,"Noto Sans CJK SC",sans-serif;fill:#233047} .muted{fill:#64748b} .line{stroke:#94a3b8;stroke-width:2;fill:none}</style>
+<text x="28" y="36" font-size="19" font-weight="bold">FIG_1G_spatial_patho.pdf</text>
+<text x="28" y="63" font-size="14" fill="#b45309">结构示意 · SCHEMATIC ONLY · 无真实数据 / 非论文原图</text>
+<rect x="28" y="84" width="490" height="265" rx="10" fill="white" stroke="#dbe2ed"/>
+<path d="M90 133 Q225 80 427 139 L455 260 Q260 339 92 267Z" fill="#f1e9ed" stroke="#d2c5ce"/>
+<circle cx="110" cy="138" r="6" fill="#2d87b5" opacity="0.8"/>
+<circle cx="169" cy="169" r="6" fill="#99bda4" opacity="0.8"/>
+<circle cx="228" cy="200" r="6" fill="#d75c66" opacity="0.8"/>
+<circle cx="287" cy="231" r="6" fill="#2d87b5" opacity="0.8"/>
+<circle cx="346" cy="262" r="6" fill="#99bda4" opacity="0.8"/>
+<circle cx="405" cy="148" r="6" fill="#d75c66" opacity="0.8"/>
+<circle cx="149" cy="179" r="6" fill="#2d87b5" opacity="0.8"/>
+<circle cx="208" cy="210" r="6" fill="#99bda4" opacity="0.8"/>
+<circle cx="267" cy="241" r="6" fill="#d75c66" opacity="0.8"/>
+<circle cx="326" cy="272" r="6" fill="#2d87b5" opacity="0.8"/>
+<circle cx="385" cy="158" r="6" fill="#99bda4" opacity="0.8"/>
+<circle cx="129" cy="189" r="6" fill="#d75c66" opacity="0.8"/>
+<circle cx="188" cy="220" r="6" fill="#2d87b5" opacity="0.8"/>
+<circle cx="247" cy="251" r="6" fill="#99bda4" opacity="0.8"/>
+<circle cx="306" cy="282" r="6" fill="#d75c66" opacity="0.8"/>
+<circle cx="365" cy="168" r="6" fill="#2d87b5" opacity="0.8"/>
+<circle cx="424" cy="199" r="6" fill="#99bda4" opacity="0.8"/>
+<circle cx="168" cy="230" r="6" fill="#d75c66" opacity="0.8"/>
+<circle cx="227" cy="261" r="6" fill="#2d87b5" opacity="0.8"/>
+<circle cx="286" cy="147" r="6" fill="#99bda4" opacity="0.8"/>
+<circle cx="345" cy="178" r="6" fill="#d75c66" opacity="0.8"/>
+<circle cx="404" cy="209" r="6" fill="#2d87b5" opacity="0.8"/>
+<circle cx="148" cy="240" r="6" fill="#99bda4" opacity="0.8"/>
+<circle cx="207" cy="271" r="6" fill="#d75c66" opacity="0.8"/>
+<circle cx="266" cy="157" r="6" fill="#2d87b5" opacity="0.8"/>
+<circle cx="325" cy="188" r="6" fill="#99bda4" opacity="0.8"/>
+<circle cx="384" cy="219" r="6" fill="#d75c66" opacity="0.8"/>
+<circle cx="128" cy="250" r="6" fill="#2d87b5" opacity="0.8"/>
+<circle cx="187" cy="281" r="6" fill="#99bda4" opacity="0.8"/>
+<circle cx="246" cy="167" r="6" fill="#d75c66" opacity="0.8"/>
+<circle cx="305" cy="198" r="6" fill="#2d87b5" opacity="0.8"/>
+<circle cx="364" cy="229" r="6" fill="#99bda4" opacity="0.8"/>
+<circle cx="423" cy="260" r="6" fill="#d75c66" opacity="0.8"/>
+<circle cx="167" cy="146" r="6" fill="#2d87b5" opacity="0.8"/>
+<circle cx="226" cy="177" r="6" fill="#99bda4" opacity="0.8"/>
+<circle cx="285" cy="208" r="6" fill="#d75c66" opacity="0.8"/>
+<circle cx="344" cy="239" r="6" fill="#2d87b5" opacity="0.8"/>
+<circle cx="403" cy="270" r="6" fill="#99bda4" opacity="0.8"/>
+<circle cx="147" cy="156" r="6" fill="#d75c66" opacity="0.8"/>
+<circle cx="206" cy="187" r="6" fill="#2d87b5" opacity="0.8"/>
+<circle cx="265" cy="218" r="6" fill="#99bda4" opacity="0.8"/>
+<circle cx="324" cy="249" r="6" fill="#d75c66" opacity="0.8"/>
+<circle cx="383" cy="280" r="6" fill="#2d87b5" opacity="0.8"/>
+<circle cx="127" cy="166" r="6" fill="#99bda4" opacity="0.8"/>
+<circle cx="186" cy="197" r="6" fill="#d75c66" opacity="0.8"/>
+<circle cx="245" cy="228" r="6" fill="#2d87b5" opacity="0.8"/>
+<circle cx="304" cy="259" r="6" fill="#99bda4" opacity="0.8"/>
+<circle cx="363" cy="145" r="6" fill="#d75c66" opacity="0.8"/>
+<circle cx="422" cy="176" r="6" fill="#2d87b5" opacity="0.8"/>
+<circle cx="166" cy="207" r="6" fill="#99bda4" opacity="0.8"/>
+<circle cx="225" cy="238" r="6" fill="#d75c66" opacity="0.8"/>
+<circle cx="284" cy="269" r="6" fill="#2d87b5" opacity="0.8"/>
+<circle cx="343" cy="155" r="6" fill="#99bda4" opacity="0.8"/>
+<circle cx="402" cy="186" r="6" fill="#d75c66" opacity="0.8"/>
+<circle cx="146" cy="217" r="6" fill="#2d87b5" opacity="0.8"/>
+<text x="548" y="119" font-size="20" font-weight="bold">空间特征/病理分布图</text>
+<text x="548" y="154" font-size="15">Figure_01G</text>
+<text x="548" y="186" font-size="14">spatial_analysis</text>
+<text x="548" y="215" font-size="14">源代码：L17–L30</text>
+<text x="548" y="260" font-size="14" class="muted">几何形状仅说明图形类型。</text>
+<text x="548" y="285" font-size="14" class="muted">位置、颜色、曲线均非研究结果。</text>
+<text x="28" y="382" font-size="14" class="muted">对应代码、输入文件和图号冲突说明见同目录 README.md / metadata.json</text>
+</svg>

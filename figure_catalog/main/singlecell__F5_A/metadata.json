@@ -1,0 +1,55 @@
+{
+  "source": "singlecell_analysis/codes/code_myeloid_panels.R",
+  "source_sha256": "ee847ec1932df9ebebaff8c16a66c9317491a997008fc460fcf913b9950228c9",
+  "start": 1,
+  "end": 46,
+  "output_line": 44,
+  "output": "F5_A.pdf",
+  "labels": [
+    "Figure_05A"
+  ],
+  "status": "active",
+  "type": "embedding",
+  "notes": [],
+  "inputs": [
+    {
+      "literal": "/R_utils/plotutils.R",
+      "resolved_candidate": "singlecell_analysis/data/R_utils/plotutils.R",
+      "available": true,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "/R_utils/seuratutils.R",
+      "resolved_candidate": "singlecell_analysis/data/R_utils/seuratutils.R",
+      "available": true,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "/R_utils/seuratutilsV3.R",
+      "resolved_candidate": "singlecell_analysis/data/R_utils/seuratutilsV3.R",
+      "available": true,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "/R_utils/color.R",
+      "resolved_candidate": "singlecell_analysis/data/R_utils/color.R",
+      "available": true,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "../zenodo_data/myeloid.final.nodoublets.Rda",
+      "resolved_candidate": "singlecell_analysis/zenodo_data/myeloid.final.nodoublets.Rda",
+      "available": false,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "lig_rec_differential_highlvl_df_not_allzeros.Rda",
+      "resolved_candidate": "singlecell_analysis/data/lig_rec_differential_highlvl_df_not_allzeros.Rda",
+      "available": true,
+      "scope": "whole_source_script"
+    }
+  ],
+  "selector": null,
+  "folder": "main/singlecell__F5_A",
+  "snippet_sha256": "0eb3869b390fee43eeff33de46f6005fa8b86fe4c4f8d201e4e46eac83634040"
+}

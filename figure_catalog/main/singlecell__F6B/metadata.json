@@ -1,0 +1,79 @@
+{
+  "source": "singlecell_analysis/codes/code_lymphoid_panels.R",
+  "source_sha256": "2b80b1140f219654bb1476167c1aebc10cd9153db22edf16dafe14c3e8cf6eba",
+  "start": 34,
+  "end": 67,
+  "output_line": 65,
+  "output": "F6B.pdf",
+  "labels": [
+    "Figure_06B"
+  ],
+  "status": "active",
+  "type": "embedding",
+  "notes": [],
+  "inputs": [
+    {
+      "literal": "/R_utils/plotutils.R",
+      "resolved_candidate": "singlecell_analysis/data/R_utils/plotutils.R",
+      "available": true,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "/R_utils/seuratutils.R",
+      "resolved_candidate": "singlecell_analysis/data/R_utils/seuratutils.R",
+      "available": true,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "/R_utils/seuratutilsV3.R",
+      "resolved_candidate": "singlecell_analysis/data/R_utils/seuratutilsV3.R",
+      "available": true,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "/R_utils/color.R",
+      "resolved_candidate": "singlecell_analysis/data/R_utils/color.R",
+      "available": true,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "../zenodo_data/tcell.final.nodoublets.Rda",
+      "resolved_candidate": "singlecell_analysis/zenodo_data/tcell.final.nodoublets.Rda",
+      "available": false,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "bcell.final.nodoublets.Rda",
+      "resolved_candidate": "singlecell_analysis/codes/bcell.final.nodoublets.Rda",
+      "available": false,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "tnk.validation.Rda",
+      "resolved_candidate": "singlecell_analysis/codes/tnk.validation.Rda",
+      "available": false,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "lig_rec_differential_htan_df_not_allzeros.Rda",
+      "resolved_candidate": "singlecell_analysis/data/lig_rec_differential_htan_df_not_allzeros.Rda",
+      "available": true,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "viz_comb.df.Rda",
+      "resolved_candidate": "singlecell_analysis/data/viz_comb.df.Rda",
+      "available": true,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "../zenodo_data/malig.Rda",
+      "resolved_candidate": "singlecell_analysis/zenodo_data/malig.Rda",
+      "available": false,
+      "scope": "whole_source_script"
+    }
+  ],
+  "selector": null,
+  "folder": "main/singlecell__F6B",
+  "snippet_sha256": "d576a304e9ee960c2f22320b16804063807e414cdea62bd6bf5f7e2c63f08a44"
+}

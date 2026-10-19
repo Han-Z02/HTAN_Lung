@@ -1,0 +1,55 @@
+{
+  "source": "singlecell_analysis/codes/code_endo_panels.R",
+  "source_sha256": "e14c96151d30f1ca87d13f34ab22d9320fbc5932a1e4e7a93ba0f845bd2925f7",
+  "start": 96,
+  "end": 136,
+  "output_line": 129,
+  "output": "Fig4C.pdf",
+  "labels": [
+    "Figure_04C"
+  ],
+  "status": "active",
+  "type": "dot",
+  "notes": [],
+  "inputs": [
+    {
+      "literal": "/R_utils/plotutils.R",
+      "resolved_candidate": "singlecell_analysis/data/R_utils/plotutils.R",
+      "available": true,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "/R_utils/seuratutils.R",
+      "resolved_candidate": "singlecell_analysis/data/R_utils/seuratutils.R",
+      "available": true,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "/R_utils/seuratutilsV3.R",
+      "resolved_candidate": "singlecell_analysis/data/R_utils/seuratutilsV3.R",
+      "available": true,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "/R_utils/color.R",
+      "resolved_candidate": "singlecell_analysis/data/R_utils/color.R",
+      "available": true,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "../zenodo_data/end.final.nodoublets.Rda",
+      "resolved_candidate": "singlecell_analysis/zenodo_data/end.final.nodoublets.Rda",
+      "available": false,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "lig_rec_differential_highlvl_df_not_allzeros.Rda",
+      "resolved_candidate": "singlecell_analysis/data/lig_rec_differential_highlvl_df_not_allzeros.Rda",
+      "available": true,
+      "scope": "whole_source_script"
+    }
+  ],
+  "selector": null,
+  "folder": "main/singlecell__Fig4C",
+  "snippet_sha256": "28a9b3936f2f5fe7052386e9345c7d3683e7fbdb0837f524bafeec2596b1e383"
+}

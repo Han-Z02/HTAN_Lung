@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="420" viewBox="0 0 920 420">
+<title>Fig3F.pdf — 图形结构示意</title>
+<desc>根据绘图代码制作的结构示意，不含研究数据；不表示实际趋势、数值或显著性。</desc>
+<rect width="920" height="420" rx="16" fill="#f5f7fb"/>
+<style>text{font-family:Arial,"Noto Sans CJK SC",sans-serif;fill:#233047} .muted{fill:#64748b} .line{stroke:#94a3b8;stroke-width:2;fill:none}</style>
+<text x="28" y="36" font-size="19" font-weight="bold">Fig3F.pdf</text>
+<text x="28" y="63" font-size="14" fill="#b45309">结构示意 · SCHEMATIC ONLY · 无真实数据 / 非论文原图</text>
+<rect x="28" y="84" width="490" height="265" rx="10" fill="white" stroke="#dbe2ed"/>
+<line x1="85" y1="310" x2="460" y2="310" stroke="#94a3b8" stroke-width="2"/>
+<line x1="85" y1="118" x2="85" y2="310" stroke="#94a3b8" stroke-width="2"/>
+<path d="M200 137 C184 166 160 184 164 224 C168 253 188 276 200 290 C212 276 232 253 236 224 C240 184 216 166 200 137Z" fill="#2d87b5" opacity="0.4"/>
+<text x="175" y="332" font-size="13">Group</text>
+<path d="M345 137 C329 166 305 184 309 224 C313 253 333 276 345 290 C357 276 377 253 381 224 C385 184 361 166 345 137Z" fill="#d75c66" opacity="0.4"/>
+<text x="320" y="332" font-size="13">Group</text>
+<text x="548" y="119" font-size="20" font-weight="bold">小提琴图</text>
+<text x="548" y="154" font-size="15">Figure_03F</text>
+<text x="548" y="186" font-size="14">singlecell_analysis</text>
+<text x="548" y="215" font-size="14">源代码：L227–L293</text>
+<text x="548" y="260" font-size="14" class="muted">几何形状仅说明图形类型。</text>
+<text x="548" y="285" font-size="14" class="muted">位置、颜色、曲线均非研究结果。</text>
+<text x="28" y="382" font-size="14" class="muted">对应代码、输入文件和图号冲突说明见同目录 README.md / metadata.json</text>
+</svg>

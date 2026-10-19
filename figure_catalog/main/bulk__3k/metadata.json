@@ -1,0 +1,37 @@
+{
+  "source": "bulk_analysis/codes/entropy.R",
+  "source_sha256": "80f580b8d5bba52c04dde3076f05d436da5e6bc38729259fc401c91680dab897",
+  "start": 119,
+  "end": 153,
+  "output_line": 149,
+  "output": "3k.pdf",
+  "labels": [
+    "Figure_03K"
+  ],
+  "status": "active",
+  "type": "violin",
+  "notes": [],
+  "inputs": [
+    {
+      "literal": "luad.2018.processed.rds",
+      "resolved_candidate": "bulk_analysis/data/luad.2018.processed.rds",
+      "available": true,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "combined.luad.2018.rds",
+      "resolved_candidate": "bulk_analysis/data/combined.luad.2018.rds",
+      "available": true,
+      "scope": "whole_source_script"
+    },
+    {
+      "literal": "cptac.luad.prot.processed.rds",
+      "resolved_candidate": "bulk_analysis/data/cptac.luad.prot.processed.rds",
+      "available": true,
+      "scope": "whole_source_script"
+    }
+  ],
+  "selector": null,
+  "folder": "main/bulk__3k",
+  "snippet_sha256": "3ee55870dd40911b8ed468d0641d8305fde80a54f721539f43b05799700a0477"
+}

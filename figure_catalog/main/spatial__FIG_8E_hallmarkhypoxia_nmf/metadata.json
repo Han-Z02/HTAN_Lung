@@ -1,0 +1,25 @@
+{
+  "source": "spatial_analysis/codes/FIG_8E.R",
+  "source_sha256": "e68c2577f7f374b8867251201ac53111dc4c20d781b9785580fa3acca4070e12",
+  "start": 1,
+  "end": 26,
+  "output_line": 20,
+  "output": "FIG_8E_hallmarkhypoxia_nmf.pdf",
+  "labels": [
+    "Figure_08E"
+  ],
+  "status": "active",
+  "type": "box",
+  "notes": [],
+  "inputs": [
+    {
+      "literal": "spatial_list_u50_factor14_highlvl_sigs.corr.df.csv",
+      "resolved_candidate": "spatial_analysis/data/spatial_list_u50_factor14_highlvl_sigs.corr.df.csv",
+      "available": true,
+      "scope": "whole_source_script"
+    }
+  ],
+  "selector": null,
+  "folder": "main/spatial__FIG_8E_hallmarkhypoxia_nmf",
+  "snippet_sha256": "de79fdc25fad976db6486df6aac376f4c80838e9658fa2180f092a9f5ee180ea"
+}

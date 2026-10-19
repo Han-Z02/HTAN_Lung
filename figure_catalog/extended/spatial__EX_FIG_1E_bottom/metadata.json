@@ -1,0 +1,25 @@
+{
+  "source": "spatial_analysis/codes/EX_FIG_1E_bottom.py",
+  "source_sha256": "25f92ce7181e2366c90a135bf04286e3a1b0eded3110182be1fca8a0a061b8cf",
+  "start": 1,
+  "end": 30,
+  "output_line": 30,
+  "output": "EX_FIG_1E_bottom.pdf",
+  "labels": [
+    "Extended_01E"
+  ],
+  "status": "active",
+  "type": "box",
+  "notes": [],
+  "inputs": [
+    {
+      "literal": "EX_FIG_1E_bottom.csv",
+      "resolved_candidate": "spatial_analysis/EX_FIG_1E_bottom.csv",
+      "available": false,
+      "scope": "whole_source_script"
+    }
+  ],
+  "selector": null,
+  "folder": "extended/spatial__EX_FIG_1E_bottom",
+  "snippet_sha256": "e09ddd5964626c86f8cfdc2cc9a9edf1d7d779932f0b073ff41d0d4cca82534c"
+}

@@ -1,0 +1,25 @@
+{
+  "source": "spatial_analysis/codes/FIG_7B.R",
+  "source_sha256": "17d65f06b8c0251d3374315d86332a7585b445c2a0d1c8b0b8b44d5a439da313",
+  "start": 1,
+  "end": 29,
+  "output_line": 22,
+  "output": "FIG_7B.pdf",
+  "labels": [
+    "Figure_07B"
+  ],
+  "status": "active",
+  "type": "box",
+  "notes": [],
+  "inputs": [
+    {
+      "literal": "Naomi_barplot_input2.csv",
+      "resolved_candidate": "spatial_analysis/data/Naomi_barplot_input2.csv",
+      "available": true,
+      "scope": "whole_source_script"
+    }
+  ],
+  "selector": null,
+  "folder": "main/spatial__FIG_7B",
+  "snippet_sha256": "17d65f06b8c0251d3374315d86332a7585b445c2a0d1c8b0b8b44d5a439da313"
+}
